@@ -20,8 +20,8 @@ const onSubmit = (e) => {
     <h3>Add new transaction</h3>
       <form onSubmit={onSubmit}>
         <div className="form-control">
-          <label htmlFor="text">Text</label>
-          <input type="text" value={text} onChange={(e)=>setText(e.target.value)} placeholder="Enter text..." />
+          <label htmlFor="text">Item</label>
+          <input type="text" value={text} onChange={(e)=>setText(e.target.value)} placeholder="Enter Your Items..." />
         </div>
         <div className="form-control">
           <label htmlFor="amount"
