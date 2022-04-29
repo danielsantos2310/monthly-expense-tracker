@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## Monthly Expense Tracker App built with React JS & JSON Server
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
